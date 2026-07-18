@@ -1,0 +1,11 @@
+Grocery List
+============
+
+Item            Quantity
+----            --------
+Apples          6
+Milk            2 litres
+Bread           1 loaf
+Eggs            12
+Coffee          1 bag
+Rice            2 kg
